@@ -1,7 +1,0 @@
-DESCRIPTION="XCB render-util library"
-HOMEPAGE="http://xcb.sourceforge.net/"
-SRC_URI="http://xcb.freedesktop.org/dist/${P}.tar.bz2"
-
-PKG_NAMES="libxcb-render-util0 libxcb-render-util-devel"
-libxcb_render_util0_CONTENTS="usr/bin/cygxcb-render-util-0.dll usr/share/doc/"
-libxcb_render_util_devel_CONTENTS="usr/include/ usr/lib/"
